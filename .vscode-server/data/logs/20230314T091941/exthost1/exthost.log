@@ -1,0 +1,11 @@
+2023-03-14 09:19:50.133 [info] Extension host with pid 1473 started
+2023-03-14 09:19:50.225 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-14 09:19:50.227 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-03-14 09:19:50.278 [info] Lock '/home/muga/.vscode-server/data/User/workspaceStorage/afc7be6e631a14587ddb9141f2efe387/vscode.lock': Lock acquired.
+2023-03-14 09:19:50.338 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-14 09:19:50.362 [info] Eager extensions activated
+2023-03-14 09:19:50.363 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-14 09:19:50.364 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-14 09:19:55.513 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-03-14 09:33:07.734 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-14 10:43:37.208 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2407

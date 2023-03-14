@@ -1,0 +1,15 @@
+2023-03-07 21:22:12.846 [info] 
+
+
+
+
+2023-03-07 21:22:12.846 [info] Extension host agent started.
+2023-03-07 21:22:13.124 [info] Started initializing default profile extensions in extensions installation folder. file:///home/muga/.vscode-server/extensions
+2023-03-07 21:22:13.140 [info] [127.0.0.1][a3b03c96][ManagementConnection] New connection established.
+2023-03-07 21:22:13.157 [info] [127.0.0.1][7caef0db][ExtensionHostConnection] New connection established.
+2023-03-07 21:22:13.197 [info] [127.0.0.1][7caef0db][ExtensionHostConnection] <215> Launched Extension Host Process.
+2023-03-07 21:22:13.784 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/muga/.vscode-server/extensions
+2023-03-07 21:22:30.127 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+2023-03-07 21:24:38.199 [info] [127.0.0.1][a3b03c96][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 21:24:38.267 [info] [127.0.0.1][7caef0db][ExtensionHostConnection] <215> Extension Host Process exited with code: 0, signal: null.

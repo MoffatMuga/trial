@@ -1,0 +1,88 @@
+2023-03-14 09:19:41.895 [info] 
+
+
+
+
+2023-03-14 09:19:42.008 [info] Extension host agent started.
+2023-03-14 09:19:42.191 [info] [127.0.0.1][fe64db51][ManagementConnection] New connection established.
+2023-03-14 09:19:42.197 [info] [127.0.0.1][31c67e13][ExtensionHostConnection] New connection established.
+2023-03-14 09:19:49.506 [info] [127.0.0.1][31c67e13][ExtensionHostConnection] <1473> Launched Extension Host Process.
+2023-03-14 09:57:40.452 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-03-14 09:57:40.838 [info] Installing extension: bradgashler.htmltagwrap
+2023-03-14 09:58:08.037 [info] Extension signature verification: bradgashler.htmltagwrap. Verification status: Verified.
+2023-03-14 09:58:08.229 [info] Extracted extension to /home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7: bradgashler.htmltagwrap
+2023-03-14 09:58:08.418 [info] Rename failed because of EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'. Deleted from extracted location /home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7
+2023-03-14 09:58:08.420 [error] Error while installing the extension: bradgashler.htmltagwrap
+2023-03-14 09:58:08.424 [error] Failed to install extension. bradgashler.htmltagwrap
+2023-03-14 09:58:08.425 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-14 09:58:09.432 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-14 10:01:05.767 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-03-14 10:01:06.199 [info] Installing extension: bradgashler.htmltagwrap
+2023-03-14 10:01:06.387 [error] Error while installing the extension: bradgashler.htmltagwrap
+2023-03-14 10:01:06.388 [error] Failed to install extension. bradgashler.htmltagwrap
+2023-03-14 10:01:06.388 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-14 10:05:08.648 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-03-14 10:05:09.122 [info] Installing extension: bradgashler.htmltagwrap
+2023-03-14 10:05:09.317 [error] Error while installing the extension: bradgashler.htmltagwrap
+2023-03-14 10:05:09.320 [error] Failed to install extension. bradgashler.htmltagwrap
+2023-03-14 10:05:09.321 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-14 10:08:57.657 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-03-14 10:08:58.220 [info] Installing extension: bradgashler.htmltagwrap
+2023-03-14 10:08:58.405 [error] Error while installing the extension: bradgashler.htmltagwrap
+2023-03-14 10:08:58.406 [error] Failed to install extension. bradgashler.htmltagwrap
+2023-03-14 10:08:58.406 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-14 10:09:39.472 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-03-14 10:09:40.145 [info] Installing extension: bradgashler.htmltagwrap
+2023-03-14 10:09:40.282 [error] Error while installing the extension: bradgashler.htmltagwrap
+2023-03-14 10:09:40.286 [error] Failed to install extension. bradgashler.htmltagwrap
+2023-03-14 10:09:40.286 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-14 10:15:27.860 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-03-14 10:15:28.409 [info] Installing extension: bradgashler.htmltagwrap
+2023-03-14 10:15:28.565 [error] Error while installing the extension: bradgashler.htmltagwrap
+2023-03-14 10:15:28.566 [error] Failed to install extension. bradgashler.htmltagwrap
+2023-03-14 10:15:28.566 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-14 10:18:25.146 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-03-14 10:18:25.611 [info] Installing extension: bradgashler.htmltagwrap
+2023-03-14 10:18:25.769 [error] Error while installing the extension: bradgashler.htmltagwrap
+2023-03-14 10:18:25.771 [error] Failed to install extension. bradgashler.htmltagwrap
+2023-03-14 10:18:25.771 [error] EACCES: EACCES: permission denied, rename '/home/muga/.vscode-server/extensions/.c92e6947-3a0f-4473-a6be-67ce5e1c72b7' -> '/home/muga/.vscode-server/extensions/bradgashler.htmltagwrap-0.0.7'
+    at V.v (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/muga/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
